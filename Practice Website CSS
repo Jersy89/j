@@ -1,0 +1,19 @@
+body{
+
+    font: 15px/1.5 arial; 
+    padding: 0px;
+    margin: 0px;
+    background:#ecebec;
+    
+}
+.pics{
+    width: 80%;
+    margin: auto;
+    overflow:hidden;
+}
+/*header**/
+.header1{
+    background-color: #616161;
+    color:#ffffff
+    
+}
